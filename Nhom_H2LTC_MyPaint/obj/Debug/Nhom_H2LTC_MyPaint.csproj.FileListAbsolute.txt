@@ -1,0 +1,13 @@
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\bin\Debug\Nhom_H2LTC_MyPaint.exe.config
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\bin\Debug\Nhom_H2LTC_MyPaint.exe
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\bin\Debug\Nhom_H2LTC_MyPaint.pdb
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2LTC_MyPaint.csproj.AssemblyReference.cache
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2LTC_MyPaint.Form1.resources
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2LTC_MyPaint.Properties.Resources.resources
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2LTC_MyPaint.csproj.GenerateResource.cache
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2LTC_MyPaint.csproj.CoreCompileInputs.cache
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2L.6C192C97.Up2Date
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2LTC_MyPaint.exe
+D:\Nhom_H2LTC_MyPaint\Nhom_H2LTC_MyPaint\obj\Debug\Nhom_H2LTC_MyPaint.pdb
